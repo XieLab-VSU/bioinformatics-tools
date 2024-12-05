@@ -26,7 +26,7 @@ Below you can find different packages and tool suggestions for bioinformatic ana
 | ------- | ------------------ |
 | **Minimap2** | Alignment program that aligns DNA or mRNA sequences against a large reference database - https://github.com/lh3/minimap2 |
 | **Mummer** | Alignment tool for DNA and protein sequences - https://github.com/mummer4/mummer |
-
+| **BLAST** | Finds regions of similarity between biological sequences - https://blast.ncbi.nlm.nih.gov/Blast.cgi |
 
 
 

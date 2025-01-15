@@ -27,7 +27,8 @@ Below you can find different packages and tool suggestions for bioinformatic ana
 | **Minimap2** | Alignment program that aligns DNA or mRNA sequences against a large reference database - https://github.com/lh3/minimap2 |
 | **Mummer** | Alignment tool for DNA and protein sequences - https://github.com/mummer4/mummer |
 | **BLAST** | Finds regions of similarity between biological sequences - https://blast.ncbi.nlm.nih.gov/Blast.cgi |
-
+| **STAR** | Align RNA Seq reads to reference genome - https://github.com/alexdobin/STAR |
+| **HISAT2** | fast and sensitive alignment program for mapping NGS reads (whole-genome, transcriptome, and exome sequencing data) - https://github.com/DaehwanKimLab/hisat2 | 
 
 
 

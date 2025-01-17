@@ -30,8 +30,12 @@ Below you can find different packages and tool suggestions for bioinformatic ana
 | **STAR** | Align RNA Seq reads to reference genome - https://github.com/alexdobin/STAR |
 | **HISAT2** | fast and sensitive alignment program for mapping NGS reads (whole-genome, transcriptome, and exome sequencing data) - https://github.com/DaehwanKimLab/hisat2 | 
 
-
-
+#### Genome assemblers
+|   Name     |           |
+| ------- | ------------------ |
+| **Flye** | Repeat graph based de novo assembler for single-molecule sequencing reads - https://github.com/mikolmogorov/Flye |
+| **Canu** | Canu is designed for high-noise single-molecule sequencing using MinHash overlapping strategies - https://github.com/marbl/canu |
+| **ABySS** | A parallelized sequence assembler for short read technologies - https://github.com/bcgsc/abyss |
 
 
 
